@@ -1,3 +1,7 @@
+// this is the live server we are using  
+// https://nodejs-api-v2.onrender.com
+// https://nodejs-api-v2.onrender.com/api/product
+
 require("dotenv").config();
 const express = require(`express`);
 const mongoose = require("mongoose");
